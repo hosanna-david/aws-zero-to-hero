@@ -46,5 +46,15 @@ Amazon Web Services (AWS) offers an extended collection of services catering to 
 - Coordinate dispersed applications using AWS Step Functions. 
 - Push, email, SMS, and pub/sub notifications using Amazon SNS. 
 - Amazon SQS: Message queue management.
-  
 
+🔶 DevOps: 
+- AWS CodeCommit: Private and secure Git repository hosting.
+- AWS CodePipeline: Continuous delivery service to automatically build, test, and deploy applications.
+- AWS CodeBuild: Fully managed, scalable build service.
+- AWS CodeDeploy: Orchestrates application deployments in development environments.
+
+🔶 Development: 
+- AWS SDKs: Set of libraries and tools for developing applications with AWS.
+- AWS CLI: Command-line interface to interact with AWS services.
+- AWS Cloud9: Cloud-based integrated development environment with all the features to write, run, and debug applications.
+- AWS X-Ray: Analyze and debug distributed applications.
